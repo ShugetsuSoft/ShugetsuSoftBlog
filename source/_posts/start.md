@@ -4,7 +4,7 @@ author: Rorical
 tags: Shugetsu
 ---
 
-## 这里是Project Shugetsu的官方博客
+## 这里是Shugetsu Soft的官方博客
 
 一些内容稍后会添加
 <!-- more -->
