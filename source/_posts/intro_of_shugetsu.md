@@ -4,9 +4,11 @@ author: Rorical
 tags: Shugetsu
 ---
 
-> Gather ye rose while ye may. <!--more-->
+> Gather ye rose while ye may.
 
-# Shugetsu
+<!--more-->
+
+## Shugetsu
 
 Project Shugetsu 是一个由我和 [Matrew File](https://elfile4138.moe/) 在2020年共同成立的一个组织。她的目标很远大，甚至跨越几十年的时光，只为收集到旅途中最美的风景。
 
