@@ -183,8 +183,8 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  GitHub: https://github.com/ShugetsuSoft || github
+  E-Mail: mailto:shugetsu@shugetsu.space || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -597,14 +597,14 @@ disqus:
 # Demo: https://suka.js.org/DisqusJS/
 # For more information: https://github.com/SukkaW/DisqusJS
 disqusjs:
-  enable: false
+  enable: true
   # API Endpoint of Disqus API (https://disqus.com/api/).
   # Leave api empty if you are able to connect to Disqus API. Otherwise you need a reverse proxy for it.
   # For example:
   # api: https://disqus.skk.moe/disqus/
   api:
-  apikey: # Register new application from https://disqus.com/api/applications/
-  shortname: # See: https://disqus.com/admin/settings/general/
+  apikey: ke83fMJ41NPehDGOVbNsxEL316U9oJQvMiOkiEY8CkrjtCdqqXDgKeHBXLxIMuye
+  shortname: shugetsu-soft-blog
 
 # Changyan
 changyan:
@@ -616,9 +616,9 @@ changyan:
 # Valine
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
-  enable: true
-  appid: XCfKCfJCF0mqYSIU6QxfiP59-gzGzoHsz
-  appkey: cnWGtErW4Gb2W1tVaoakIoMy
+  enable: false
+  appid: null
+  appkey: null
   notify: false
   verify: false
   enableQQ: true
