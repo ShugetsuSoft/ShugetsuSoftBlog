@@ -1,6 +1,6 @@
 ---
 title: 一个关于Project Shugetsu的介绍
-author: Rorical
+author: Shugetsu
 tags: Shugetsu
 ---
 
@@ -10,7 +10,7 @@ tags: Shugetsu
 
 ## Shugetsu
 
-Project Shugetsu 是一个由我和 [Matrew File](https://elfile4138.moe/) 在2020年共同成立的一个组织。她的目标很远大，甚至跨越几十年的时光，只为收集到旅途中最美的风景。
+Project Shugetsu 是一个由 [Rorical](https://rorical.blue/) 和 [Matrew File](https://elfile4138.moe/) 在2020年共同成立的一个组织。她的目标很远大，甚至跨越几十年的时光，只为收集到旅途中最美的风景。
 
 ## 名字是哪里来的
 
