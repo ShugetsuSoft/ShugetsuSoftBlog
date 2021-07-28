@@ -1,5 +1,5 @@
 ---
-title: Shugetsu
+title: Shugetsu Soft
 author: Rorical
 tags: Shugetsu
 ---
