@@ -602,7 +602,7 @@ disqusjs:
   # Leave api empty if you are able to connect to Disqus API. Otherwise you need a reverse proxy for it.
   # For example:
   # api: https://disqus.skk.moe/disqus/
-  api: https://disqusjs.shugetsu.workers.dev/api/
+  api: https://blog.shugetsu.dev/api/
   apikey: ke83fMJ41NPehDGOVbNsxEL316U9oJQvMiOkiEY8CkrjtCdqqXDgKeHBXLxIMuye
   shortname: shugetsu-soft-blog
 
