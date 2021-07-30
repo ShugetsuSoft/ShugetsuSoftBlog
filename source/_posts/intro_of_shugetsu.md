@@ -1,6 +1,7 @@
 ---
 title: 一个关于Project Shugetsu的介绍
 author: Shugetsu
+date: 2021-07-28 00:00:00
 tags: Shugetsu
 ---
 
